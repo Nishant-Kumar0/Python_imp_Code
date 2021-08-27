@@ -1,2 +1,3 @@
-# Python_imp_Code
-Here, Find Various type of Example of Python with Code....
+# face-detection is an Artificial intelligence based on
+Computer technology used to find and identify human 
+Faces in digital images 
